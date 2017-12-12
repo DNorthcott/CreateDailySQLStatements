@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateDailySQLstatements", "CreateDailySQLstatements.csproj", "{41F9A178-DB59-4BFF-AE24-94F88806E203}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41F9A178-DB59-4BFF-AE24-94F88806E203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41F9A178-DB59-4BFF-AE24-94F88806E203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41F9A178-DB59-4BFF-AE24-94F88806E203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41F9A178-DB59-4BFF-AE24-94F88806E203}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A637380-6583-40C2-AC57-B28B0F0C659A}
+	EndGlobalSection
+EndGlobal

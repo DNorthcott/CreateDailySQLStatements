@@ -1,0 +1,7 @@
+C:\Users\David\source\repos\CreateDummyData\bin\Debug\CreateDummyData.exe.config
+C:\Users\David\source\repos\CreateDummyData\bin\Debug\CreateDummyData.exe
+C:\Users\David\source\repos\CreateDummyData\bin\Debug\CreateDummyData.pdb
+C:\Users\David\source\repos\CreateDummyData\obj\Debug\CreateDummyData.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\CreateDummyData\obj\Debug\CreateDummyData.exe
+C:\Users\David\source\repos\CreateDummyData\obj\Debug\CreateDummyData.pdb
+C:\Users\David\source\repos\CreateDummyData\obj\Debug\CreateDummyData.csprojResolveAssemblyReference.cache

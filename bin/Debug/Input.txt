@@ -1,0 +1,33 @@
+Stockpiles: (date, priority, stockpile1, stockpile2, stockpile3, stockpile4, stockpile5, stockpile6, stockpile7, stockpile8, stockpile9, stockpile10)
+2017-12-12
+1 
+03N_46_J16
+NULL
+NULL
+03S_46_F25
+NULL
+NULL
+03S_46_J19
+13_36_J17
+NULL
+NULL
+END
+Blend: (date, Priority,	Coal1, Coal2, Coal3, Coal4,	Coal5, Coal6, Coal7, Coal8,	Coal9, Coal10)
+1
+03N_46_J16
+03S_46_F25
+05N_46_F25
+03S_46_J19
+13_36_J17
+13_34_F23
+13_38_J16
+NULL
+NULL
+NULL
+END
+CoalMovements (Coal, Daily mining (repeat until sequence for different coals mined))
+05N_46_F25
+30000
+13_36_J17
+20000
+END
